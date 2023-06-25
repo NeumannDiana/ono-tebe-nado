@@ -18,7 +18,7 @@
   font-family: "Raleway";
 }
 
-.header__links-list{
+.header__links-list {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -143,7 +143,7 @@
   z-index: 1;
 }
 
-.cover__description-text{
+.cover__description-text {
   font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -211,8 +211,7 @@ button {
   width: 430px;
   height: 450px;
   color: #FFFFFF;
-  z-index: 1;
-  
+  z-index: 1; 
 }
 
 .overlay__card {
@@ -225,7 +224,6 @@ button {
   justify-content: space-between;
   align-content: space-between;
 }
-
 
 .card__title {
   padding-top: 50px;
@@ -322,7 +320,7 @@ button {
   .about {
   margin-top: 181px;   
   margin-bottom: 180px;
-  }
+}
 
 .about__logo {
   background-color: #000;
@@ -346,7 +344,6 @@ button {
   display: grid;
   grid-template-columns: 500px 885px;
   grid-template-rows: 450px;
-  
 }
 
 .about__title {
@@ -366,7 +363,6 @@ button {
   font-size: 20px;
   line-height: 23px;
   padding-top: 105px;
-  
 }
 
 .footer {
@@ -386,7 +382,6 @@ button {
   justify-self: start;
   font-style: normal;
   text-decoration: none;
-  
 }
 
 .footer-text {
@@ -402,13 +397,12 @@ button {
   font-family: 'Raleway';
 }
 
-.footer__menu-list{
+.footer__menu-list {
   display: grid;
   align-self: start;
   justify-self: start;
   list-style: none;
   text-align: center;
- 
 }
 
 .footer__menu-link_active {
@@ -416,23 +410,19 @@ button {
   text-decoration: none;
 }
 
-
 .footer__menu-link {
   text-decoration: underline;
 }
-
 
 .footer__social-list {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   list-style: none;
-  
 }
 
-.footer__social-list-item{
+.footer__social-list-item {
   display: flex;
-  
 }
 
 .footer__social-icon {
