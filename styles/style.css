@@ -159,7 +159,7 @@
 
 button {
   background-color: transparent;
-  border-width: 1px; 
+  border-width: 1px;
   border-style: solid; 
   width: 257px;
   height: 52px;
@@ -211,7 +211,7 @@ button {
   width: 430px;
   height: 450px;
   color: #FFFFFF;
-  z-index: 1; 
+  z-index: 1;
 }
 
 .overlay__card {
